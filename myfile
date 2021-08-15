@@ -1,0 +1,4 @@
+$ git branch issue1
+$ git branch
+  issue1
+* master
